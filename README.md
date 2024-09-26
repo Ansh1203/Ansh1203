@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ansh Sindhu</h1>
-<h3 align="center">I'm a python developer from India.</h3>
+<h3 align="center">I'm a software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh1203&label=Profile%20views&color=0e75b6&style=flat" alt="ansh1203" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh1203" alt="ansh1203" /></a> </p>
 
-- 🌱 I’m currently learning **Big Data Analytics**
+- 🌱 Graduated in **Big Data Analytics**
 
-- 💬 Ask me about **python, sql, big data**
+- 💬 Ask me about **python, sql server, big data and analytics, DOTNET, node js, Angular, C#**
 
 - 📫 How to reach me **anshsindhu.22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aOfj-zL316UeHgtnrxzTENhdUNBehS8P/view?usp=sharing](https://drive.google.com/file/d/1aOfj-zL316UeHgtnrxzTENhdUNBehS8P/view?usp=sharing)
+- 📄 Know about my experiences [Click here for my resume](https://drive.google.com/file/d/1aOfj-zL316UeHgtnrxzTENhdUNBehS8P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
